@@ -1,0 +1,37 @@
+/* setting css, going to be linked in card.html */
+/* # for id, . for class and <tag_name> for tag */
+img{
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+body{
+    /* adding background image */
+    background-image: url("https://th.bing.com/th/id/R.45ba592abaf87a96ca6557e0ba0069e5?rik=VrKDmPM1kdz4hg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fd%2f3%2fb%2f1383878-download-free-cool-space-backgrounds-2560x1600.jpg&ehk=m1FPb7n0C%2fJJMVhi%2ffy8uNTeKlb7x7YY3eO5R3xJqow%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+}
+
+#card{
+    /* adding border <thickness type color >*/
+    
+    border: 5px solid blue;
+    width:200px;
+    /* padding is space inside the border */
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: pink;
+
+}
+
+h3{
+    text-align: center;
+    color: red;
+}
+
+p{
+    color: green;
+    text-align: justify;
+}

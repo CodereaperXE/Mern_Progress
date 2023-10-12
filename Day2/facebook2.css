@@ -1,0 +1,64 @@
+#background{
+    height: max-content;
+    background: #f0f2f5;
+}
+#center_logo{
+    margin-top: px;
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+    height: 80px;
+    width:250px;
+}
+
+#main_div{
+    height: 320px;
+    width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 10px;
+    background-color: white;
+    box-shadow:0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+}
+
+
+#login_text{
+    margin-top: 10px;
+    height:45px;
+    width: 360px;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+.input{
+    margin-left: auto;
+    margin-right: auto;
+    height:50px;
+    width: 350px;
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+}
+
+#login_button{
+    margin-left: auto;
+    margin-right: auto;
+    height:50px;
+    width: 358px;
+    background-color: #1877f2;
+    font-size:20px;
+    color:white;
+    border-radius: 6px;
+}   
+
+.forgotten_signup{
+
+    color:#1877f2;
+    text-decoration: none;
+    font-size:13px;
+    font-weight: 500;
+    margin-left: 30px;
+}
