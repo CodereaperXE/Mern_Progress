@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Basic Calculator</title>
+    <link rel="stylesheet" href="calculator.css">
+</head>
+<body>
+    <div id="main_div">
+        <h1 id="heading">Basic Calculator</h1>
+        <br>
+        <input id="n1" class="inputs" type="number" placeholder="Enter first number">
+        <br><br>
+        <select name="operators" id="opr">
+            <option value="+">+</option>
+            <option value="-">-</option>
+            <option value="*">*</option>
+            <option value="/">/</option>
+        </select>
+        <br><br>
+        <input id="n2" class="inputs" type="number" placeholder="Enter second number">
+        <br><br>
+        <button id="result" onclick="c()">Result</button>
+        <h2 id="output"></h2>
+        <h2 id="res"></h2>
+        
+    </div>
+    <script src="calculator.js"></script>
+    
+</body>
+</html>

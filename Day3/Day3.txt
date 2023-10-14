@@ -1,0 +1,54 @@
+
+javascript 
+
+ways to add javascript to HTML
+
+inline javascript
+internal javascript
+external javascript
+
+
+=======================================
+some pre defined function of javascript
+
+alert()
+prompt()
+console.log()
+document.Write()
+
+storing variables
+let 
+const 
+var
+
+variable should not begin with number
+javascript is case sensitive
+=======================================
+datatypes
+
+primitive number string boolean undefined null symbol and bigint
+non-primitive- object array and data
+=======================================
+operators
+
+=======================================
+function block of code to perform a particular task
+=======================================
+Dom manupulation DOM
+Dom Manipulation Methods
+document.getElementById()
+document.getElementsByClassName()
+document.getElementsByTagName()
+document.querySelector()
+document.querySelectorAll()
+
+
+
+=======================================
+task
+
+design calculator built in css
+
+write a javascript program that will take radius as a input and give volume of sphere as output and design that page also using class
+
+build a game using html css and javascript
