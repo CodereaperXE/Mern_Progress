@@ -1,0 +1,9 @@
+#login-box{
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:5%;
+    border: 2px solid black;
+    height: 500px;
+    width:30%;
+}

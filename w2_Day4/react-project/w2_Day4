@@ -1,0 +1,11 @@
+rules to create component
+
+first letter of the file name of componens is in caps
+file name and component name should be same
+in one file you can create only on component
+
+types of components
+fuctional component
+arrow functional component
+class component
+
