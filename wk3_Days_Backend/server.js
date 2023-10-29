@@ -15,7 +15,7 @@ app.use("/",routes);
 
 //db connections
 mongoose.connect(
-    "mongodb+srv://rb:mongodbiscrazy1234@cluster0.r0xtiw6.mongodb.net/internship"
+    "mongodb+srv{credentials}"
 ).then(()=>{
     console.log("database is connected");
 }).catch((err)=>{
