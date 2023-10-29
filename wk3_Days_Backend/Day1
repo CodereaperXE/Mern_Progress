@@ -1,0 +1,30 @@
+node js is a runtime 
+
+
+npm init
+
+node server.js
+
+npm i express
+
+
+
+mongodb+srv://rb:<password>@cluster0.r0xtiw6.mongodb.net/
+
+mongodb+srv://rb:mongodbiscrazy1234@cluster0.r0xtiw6.mongodb.net/
+
+npm i mongoose
+
+nodemon
+npm i nodemon
+nodemon filename
+
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon server.js"
+
+  },
+
+  start using "npm run dev"
+
+  or npx nodemon server.js
