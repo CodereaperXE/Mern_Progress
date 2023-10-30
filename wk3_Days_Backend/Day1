@@ -11,7 +11,7 @@ npm i express
 
 mongodb+srv://rb:<password>@cluster0.r0xtiw6.mongodb.net/
 
-mongodb+srv://rb:mongodbiscrazy1234@cluster0.r0xtiw6.mongodb.net/
+
 
 npm i mongoose
 
